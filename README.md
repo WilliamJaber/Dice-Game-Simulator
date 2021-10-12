@@ -1,7 +1,7 @@
 # Dice-Game-Simulator
 
 <div align="center">
-<img src="https://images.app.goo.gl/pasYEvgq51AvQuZr8" wdith="630" height="340" />
+<img src="https://images.app.goo.gl/pasYEvgq51AvQuZr8.jpg" wdith="630" height="340" />
 </div>
 
 ## Background Info
