@@ -1,7 +1,7 @@
 # Dice-Game-Simulator
 
 <div align="center">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc4%2F2-Dice-Icon.svg%2F1200px-2-Dice-Icon.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A2-Dice-Icon.svg&tbnid=bvgwaYhlE5rEbM&vet=12ahUKEwixo8GZn8XzAhVZjOAKHapBDfgQMygHegUIARDsAQ..i&docid=b7fzm4GbIec9UM&w=1200&h=1200&q=dices&ved=2ahUKEwixo8GZn8XzAhVZjOAKHapBDfgQMygHegUIARDsAQ" wdith="630" height="340" />
+<img src="https://images.app.goo.gl/pasYEvgq51AvQuZr8" wdith="630" height="340" />
 </div>
 
 ## Background Info
