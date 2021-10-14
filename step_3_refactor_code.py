@@ -1,4 +1,4 @@
-# PHASE THREE: SNow it's time to refactor code which is the process of
+# PHASE THREE: Now it's time to refactor code which is the process of
 # restructuring computer code without changing or adding to its external
 # behavior and functionality (i.e. let's make it look pretty)..
 #-------------------------------------------------------------
@@ -16,17 +16,17 @@ def main():
     # Get user input for number of rolls
     dice_roll = int(input('How my dice roll simulations?\n> '))
     for i in range(dice_roll):
-        # Initialze two (2) dice 
+        # Initialze two (2) dice
         d1 = randint(1, 6)
         d2 = randint(1, 6)
         if d1 + d2 == 2:
             d['snakeEyes'] += 1
-        elif d1 == d2:            
+        elif d1 == d2:
             d['doubles'] += 1
         else:
             d[d1+d2] += 1
     # Now, print results:
-    print(f'--- Results of {dice_roll} rolls--- ')
+    print(f'--- Results of {dice_roll} rolls --- ')
     for k, v in d.items():
          print(f"You rolled {k}, {v} times at {100 * (v/dice_roll):.2f}%")
     # Play again option:
